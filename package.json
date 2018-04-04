@@ -1,0 +1,30 @@
+{
+  "name": "mocha-project",
+  "version": "1.0.0",
+  "description": "This is a sample Mocha testing project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufshakeel/mocha-project.git"
+  },
+  "keywords": [
+    "mocha",
+    "testing",
+    "node",
+    "mochajs",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Yusuf Shakeel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusufshakeel/mocha-project/issues"
+  },
+  "homepage": "https://github.com/yusufshakeel/mocha-project#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
+}
